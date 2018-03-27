@@ -3,7 +3,7 @@
 // Data Access Application Block
 // Tinet Componets
 //===============================================================================
-// Author: Magno Cardona Heck m@vs.cl
+// Author: Jaime Hernandez
 // Component: Globals 
 //===============================================================================
 
