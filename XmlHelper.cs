@@ -2430,5 +2430,5 @@ namespace library.xml {
             return srtInput.Replace(oldValue, newValue);
         }
 
-    }//fin class NSDirectic
+    }//fin class NS
 }
