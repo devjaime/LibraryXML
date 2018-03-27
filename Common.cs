@@ -28,7 +28,7 @@ namespace library.common {
 
     /*public class errorEmail {
 
-        private string from = "test@directic.cl";
+        private string from = "test@web.cl";
         private string mailTo = "";
         private string ccTo = "";
         private string subjectTo = "";
