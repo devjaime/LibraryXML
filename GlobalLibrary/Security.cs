@@ -3,7 +3,7 @@
 //
 //Creating GenericPrincipal and GenericIdentity Objects
 //===============================================================================
-// Author: Magno Cardona Heck m@vs.cl
+// 
 // Component: Genereic Securite Role Base System 
 //===============================================================================
 
